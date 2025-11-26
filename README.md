@@ -40,9 +40,9 @@ This project is intended for educational and research purposes to visualize and 
 
 1. <img width="616" height="597" alt="Satellite Image" src="https://github.com/user-attachments/assets/2628fb08-decb-4337-90c0-ec72088fee61" />
 
-2. <img width="684" height="703" alt="Forest Region Simulation" src="https://github.com/user-attachments/assets/12111e7d-f199-4156-9451-5ae500b7230c" />
+2. <img width="684" height="703" alt="Forest Region Simulation" src="https://github.com/user-attachments/assets/23c742dd-aa32-4469-853f-be4b0edb5b98" />
 
-3. <img width="684" height="703" alt="Fire Origin and Spread" src="https://github.com/user-attachments/assets/23c742dd-aa32-4469-853f-be4b0edb5b98" />
+3. <img width="684" height="703" alt="Fire Origin and Spread" src="https://github.com/user-attachments/assets/12111e7d-f199-4156-9451-5ae500b7230c" />
 
 (Replace the `forest.png` string above with your actual image file paths.)
 
